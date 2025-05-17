@@ -1,6 +1,6 @@
 # 🧠 ChatGPT Web Scraper API (Puppeteer + Express)
 
-This project is an Express-based HTTP API that uses `puppeteer-real-browser` to automate interactions with the ChatGPT web interface. It allows sending prompts and receiving responses programmatically through a RESTful API.
+This project is an Express-based HTTP API that uses `Puppeteer Modded` to automate interactions with the ChatGPT web interface. It allows sending prompts and receiving responses programmatically through a RESTful API.
 
 ---
 
@@ -114,10 +114,7 @@ curl "http://localhost:3000/message?get=Hello%20World"
 
 ---
 
-## 📜 License
-
-MIT License
-
+This repository has been created solely for educational and research purposes. It is not intended for any malicious or unauthorized use.
 ---
 
 ## 📞 Contact
