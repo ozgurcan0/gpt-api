@@ -114,13 +114,12 @@ curl "http://localhost:3000/message?get=Hello%20World"
 
 ---
 
-This repository has been created solely for educational and research purposes. It is not intended for any malicious or unauthorized use.
----
-
 ## 📞 Contact
 
 For issues or feature requests, please open an issue on GitHub.
 
 ---
 
+# !
+- This repository has been created solely for educational and research purposes. It is not intended for any malicious or unauthorized use.-
 *Happy scraping! 🚀*
